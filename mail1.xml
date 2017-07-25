@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mailinfo>
+    <subject>report mail</subject>
+    <sender>igor.laguardia@oi.com</sender>
+    <mailto>igor.laguardia@oi.com</mailto>
+    <mailbody>Test 1</mailbody>
+    <mailhost>11.22.33.44</mailhost>
+</mailinfo>
